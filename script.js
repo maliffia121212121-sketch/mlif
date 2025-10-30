@@ -1,4 +1,4 @@
-const tombolSapa = document.getElementByid('sapabutton');
+const tombolSapa = document.getElementByid('sapaButton');
 tombolSapa.addEventListener('click'function(){
   alert('Halo!terimakasih sudah berkunjung!);});
         
